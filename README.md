@@ -48,4 +48,5 @@
 ![Antd](https://img.shields.io/badge/-Antd-000000?style=flat&logo=Antd)
 
 
- <img src="https://github-readme-stats.vercel.app/api?username=tranthaison1231&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranthaison1231&hide_langs_below=1&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=tranthaison1231&show_icons=true">
