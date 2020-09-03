@@ -42,7 +42,7 @@
 ![Mongo](https://img.shields.io/badge/-mongo-000000?style=flat&logo=mongodb)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![Next](https://img.shields.io/badge/-Next-000000?style=flat&logo=Next.js)
-![Nest](https://img.shields.io/badge/-Nest-000000?style=flat&logo=Nest.js
+![Nest](https://img.shields.io/badge/-Nest-000000?style=flat&logo=Nest.js)
 ![Gatsby](https://img.shields.io/badge/-Gatsby.js-000000?style=flat&logo=gatsby)
 ![Material-ui](https://img.shields.io/badge/-materialUi-000000?style=flat&logo=material-ui)
 ![Antd](https://img.shields.io/badge/-Antd-000000?style=flat&logo=Antd)
