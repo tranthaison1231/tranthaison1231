@@ -35,11 +35,17 @@
 
 #### Frameworks I have used
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://img-a.udemycdn.com/course/480x270/2270606_a764_3.jpg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>    
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
+![ReactNative](https://img.shields.io/badge/-ReactNative-000000?style=flat&logo=ReactNative)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
+![Nodejs](https://img.shields.io/badge/-node.js-000000?style=flat&logo=node.js)
+![Mongo](https://img.shields.io/badge/-mongo-000000?style=flat&logo=mongodb)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+![Next](https://img.shields.io/badge/-Next-000000?style=flat&logo=Next.js)
+![Nest](https://img.shields.io/badge/-Nest-000000?style=flat&logo=Nest.js
+![Gatsby](https://img.shields.io/badge/-Gatsby.js-000000?style=flat&logo=gatsby)
+![Material-ui](https://img.shields.io/badge/-materialUi-000000?style=flat&logo=material-ui)
+![Antd](https://img.shields.io/badge/-Antd-000000?style=flat&logo=Antd)
+
 
  <img src="https://github-readme-stats.vercel.app/api?username=tranthaison1231&show_icons=true">
