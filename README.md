@@ -16,6 +16,7 @@
 <a href="https://www.youtube.com/channel/UCFGSLDaIOZpvE432Scyarow/">
   <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
 <br/>
 <br/>
@@ -28,7 +29,6 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm shyn
 -->
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
 
 ##### Languages I have used
