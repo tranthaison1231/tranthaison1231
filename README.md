@@ -36,7 +36,7 @@
 ![JavaScript](https://img.shields.io/badge/-javascript-000000?style=flat&logo=JavaScript)
 ![Typescript](https://img.shields.io/badge/-typescript-000000?style=flat&logo=Typescript)
 ![html5](https://img.shields.io/badge/-html5-000000?style=flat&logo=html5)
-![dart](https://img.shields.io/badge/-html5-000000?style=flat&logo=dart)
+![dart](https://img.shields.io/badge/-dart-000000?style=flat&logo=dart)
 ![css3](https://img.shields.io/badge/-css3-000000?style=flat&logo=css3)
 
 #### Frameworks I have used
@@ -46,7 +46,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
 ![Nodejs](https://img.shields.io/badge/-node.js-000000?style=flat&logo=node.js)
 ![Mongo](https://img.shields.io/badge/-mongo-000000?style=flat&logo=mongodb)
-![Flutter](https://img.shields.io/badge/-mongo-000000?style=flat&logo=flutter)
+![Flutter](https://img.shields.io/badge/-flutter-000000?style=flat&logo=flutter)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![Next](https://img.shields.io/badge/-Next-000000?style=flat&logo=Next.js)
 ![Nest](https://img.shields.io/badge/-Nest-000000?style=flat&logo=Nest.js)
