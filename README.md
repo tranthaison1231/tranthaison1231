@@ -25,9 +25,6 @@
 - 🌱 I’m currently learning Nestjs, Nextjs
 - 👯 I’m looking to collaborate on ReactJs
 - 🤔 I’m looking for help with AWS 
-- 💬 Ask me about anything
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I'm shyn
 -->
 
 
