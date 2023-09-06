@@ -22,9 +22,8 @@
 <br/>
 
 - 🔭 I’m currently working on Enouvo
-- 🌱 I’m currently learning Nestjs, Nextjs
-- 👯 I’m looking to collaborate on ReactJs
-- 🤔 I’m looking for help with AWS 
+- 🌱 I’m currently learning K8S, AWS
+- 👯 I’m looking to collaborate on ReactJs, Nextjs, Nestjs
 -->
 
 
