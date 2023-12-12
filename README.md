@@ -1,4 +1,4 @@
-# <p align="center"> **Hello!!<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px">I'm Shyn** 🎯️🚀️</p>
+# <p align="center"> **Hello!!<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px">I'm Son tran** 🎯️🚀️</p>
 **About Me**
 
 <a href="https://twitter.com/tranthaison1231">
