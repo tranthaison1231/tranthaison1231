@@ -31,10 +31,11 @@
 
 ![JavaScript](https://img.shields.io/badge/-javascript-000000?style=flat&logo=JavaScript)
 ![Typescript](https://img.shields.io/badge/-typescript-000000?style=flat&logo=Typescript)
+![Go](https://img.shields.io/badge/-go-000000?style=flat&logo=go)
+![Lua](https://img.shields.io/badge/-lua-000000?style=flat&logo=lua)
 ![html5](https://img.shields.io/badge/-html5-000000?style=flat&logo=html5)
 ![dart](https://img.shields.io/badge/-dart-000000?style=flat&logo=dart)
 ![css3](https://img.shields.io/badge/-css3-000000?style=flat&logo=css3)
-![Nvim](https://img.shields.io/badge/-nvim-000000?style=flat&logo=nvim)
 
 #### Frameworks I have used
 
@@ -48,8 +49,6 @@
 ![Next](https://img.shields.io/badge/-Next-000000?style=flat&logo=Next.js)
 ![Nest](https://img.shields.io/badge/-Nest-000000?style=flat&logo=Nest.js)
 ![Svelte](https://img.shields.io/badge/-Svelte.js-000000?style=flat&logo=Svelte)
-![Material-ui](https://img.shields.io/badge/-materialUi-000000?style=flat&logo=material-ui)
-![Antd](https://img.shields.io/badge/-Antd-000000?style=flat&logo=Antd)
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranthaison1231&hide_langs_below=1&layout=compact&theme=dark">
