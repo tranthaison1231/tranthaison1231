@@ -34,6 +34,7 @@
 ![html5](https://img.shields.io/badge/-html5-000000?style=flat&logo=html5)
 ![dart](https://img.shields.io/badge/-dart-000000?style=flat&logo=dart)
 ![css3](https://img.shields.io/badge/-css3-000000?style=flat&logo=css3)
+![Nvim](https://img.shields.io/badge/-nvim-000000?style=flat&logo=nvim)
 
 #### Frameworks I have used
 
@@ -46,7 +47,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![Next](https://img.shields.io/badge/-Next-000000?style=flat&logo=Next.js)
 ![Nest](https://img.shields.io/badge/-Nest-000000?style=flat&logo=Nest.js)
-![Gatsby](https://img.shields.io/badge/-Gatsby.js-000000?style=flat&logo=gatsby)
+![Svelte](https://img.shields.io/badge/-Svelte.js-000000?style=flat&logo=Svelte)
 ![Material-ui](https://img.shields.io/badge/-materialUi-000000?style=flat&logo=material-ui)
 ![Antd](https://img.shields.io/badge/-Antd-000000?style=flat&logo=Antd)
 
